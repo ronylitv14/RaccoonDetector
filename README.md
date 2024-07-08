@@ -35,11 +35,9 @@ The primary problem this project addresses is the detection and localization of 
 - **Programming Languages**: Python
 - **Libraries**: OpenCV, TensorFlow, Keras, NumPy, Pandas, BeautifulSoup
 
-## Design
+## Example of work
 
-### User Interface
-
-The project includes visualization of detection results. Here is an example of the interface showing detected raccoons:
+The project includes visualization of detection results. Here is an example of the detected raccoons:
 
 ![Raccoon Detection Example](./img/work_example.png)
 
@@ -51,9 +49,7 @@ The project includes visualization of detection results. Here is an example of t
 - Evaluate and visualize model performance.
 - Predict raccoons in new images and visualize results.
 
-## How to Run the Project
-
-### Prerequisites
+### Requirements
 
 Ensure you have the following libraries installed:
 - Python 3.x
